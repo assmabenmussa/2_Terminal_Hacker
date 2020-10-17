@@ -23,7 +23,14 @@ public class Hacker : MonoBehaviour
 
     void OnUserInput(string input)
     {
-        print(input);
+        if (input == "a")
+        {
+            print("True!");
+        }
+        else
+        {
+            print("False - sorry!");
+        }
     }
 
 }
