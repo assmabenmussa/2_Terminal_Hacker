@@ -26,9 +26,4 @@ public class Hacker : MonoBehaviour
         print(input);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
